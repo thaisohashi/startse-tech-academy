@@ -14,17 +14,17 @@ Neste repositório estão reunidos todos os projetos desenvolvidos durante o Tec
 #
 ### Sobre o Tech Academy
 
-O Tech Academy é um programa oferecido pela Startse, uma startup de educação focada em tecnologia. O curso é gratuito e tem como objetivo oferecer formação em desenvolvimento Full Stack por meio de aulas gravadas, mentorias ao vivo e projetos práticos.
+O Tech Academy é um programa oferecido pela Startse, uma startup de educação focada em tecnologia. O curso é gratuito e tem como objetivo oferecer formação em **desenvolvimento Full Stack** por meio de aulas gravadas, mentorias ao vivo e projetos práticos.
 
 👩🏻‍💻 **Módulos:**
-–  Introdução, Sistemas e Aplicações;
-–  Linguagens de Programação;
-–  Aprendendo HTML e Elementos;
-–  Aprendendo CSS;
-–  Elementos de Página;
-–  Introdução ao GIT;
-–  JavaScript;
-–  HTML Semântico e FlexBox;
-–  Programação Orientada a Objetos em JavaScript;
-–  NodeJS;
-–  SQL.
+- Introdução, Sistemas e Aplicações; 
+- Linguagens de Programação;
+- Aprendendo HTML e Elementos;
+- Aprendendo CSS;
+- Elementos de Página;
+- Introdução ao GIT;
+- JavaScript;
+- HTML Semântico e FlexBox;
+- Programação Orientada a Objetos em JavaScript;
+- NodeJS;
+- SQL.
